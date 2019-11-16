@@ -1,4 +1,4 @@
-package Chapter1.DuckSim;
+package Chapter1.StrategyPattern;
 
 public abstract class Duck {
     FlyBehaviour flyBehaviour;

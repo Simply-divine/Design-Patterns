@@ -11,6 +11,6 @@ public class Game {
         ch.display();
         ch.fight();
         ch.setWeaponBehaviour(new BowAndArrowBehaviour());
-        ch.fight();git
+        ch.fight();
     }
 }

@@ -31,4 +31,4 @@ Decorator adds its own behaviour to the base class.
 ## Real World Usecase : Java IO library
 Java IO Library uses decorator pattern a lot.
 
-![Tree Structure](https://github.com/Simply-divine/Design-Patterns/tree/master/src/chapter3/DecoratorPattern/images/JavaIOStructure.png)
+![Tree Structure](https://github.com/Simply-divine/Design-Patterns/blob/master/src/chapter3/DecoratorPattern/images/JavaIOStructure.png)
